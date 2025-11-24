@@ -290,3 +290,13 @@ public class Main {
         sc.close();
     }
 }
+
+// Maagma, Ron Ervin
+// Badanoy, Harrie
+// Galit, Joseph
+// Dellomos, Joshua
+// Tisado, Jenry
+// Sumagang, Kirby
+// Danao, Paolo
+// Dar, Daniela
+// Laurito, Russell
